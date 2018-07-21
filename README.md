@@ -1,4 +1,4 @@
-# TechKaro---How-to-win-a-CV-and-Interview
+# TechKaro-How-to-win-a-CV-and-Interview
 
 CV Session & Interview Skills Keypoints
 ---------------------------------------
